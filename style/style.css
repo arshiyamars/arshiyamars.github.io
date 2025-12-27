@@ -1,12 +1,12 @@
 
     body {
       scroll-behavior: smooth;
+      background-color: #0D1117;
     }
     #contaier{
         text-align: center;
     }
     .me {
-        background-color: #0D1117;
         margin: 20px;
   	    color: #f8f9fa;
   }
@@ -15,8 +15,13 @@
        	width:200px
    }
 #col-md {
-        margin: 10px;
+        margin-top: 100px;
+        padding-right: 50px;
+        text-align: center;
 }
 #col-md-8 {
-        margin: 10px;
+        margin: 20px;
+}
+.aling{
+    text-align: right;
 }
