@@ -1,7 +1,7 @@
 
     body {
       scroll-behavior: smooth;
-      background-color: #0D1117;
+      background: #0D1117;
     }
     #contaier{
         text-align: center;
@@ -14,7 +14,7 @@
         border-radius: 50%;
        	width:200px
    }
-#col-md {
+#col-md-4{
         margin-top: 100px;
         padding-right: 50px;
         text-align: center;
@@ -23,5 +23,5 @@
         margin: 20px;
 }
 .aling{
-    text-align: right;
+    text-align: left;
 }
